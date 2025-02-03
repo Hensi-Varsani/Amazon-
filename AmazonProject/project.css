@@ -20,6 +20,8 @@
     height: 50px;
     width: 110px;
     background-size: cover;
+    object-fit: contain;
+    mix-blend-mode: color-dodge;
 }
 .border:hover{
     border: 2px solid white;
